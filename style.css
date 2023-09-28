@@ -1,0 +1,35 @@
+.header{
+    text-align: center;
+    margin: 0;
+    background-color: lightblue;
+    padding: 0;
+    border: solid;
+}
+h1{
+    margin: 0;
+}
+.img{
+    width: 52%;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    text-align: center;
+}
+.img2{
+    height: 600px;
+    width: 47%;
+    margin: 0;
+}
+h2{
+    font-size: 24px;
+}
+nav{
+    background-color: burlywood;
+    ;
+}
+.stig{
+    background-color: burlywood;
+    padding: 0 0;
+    margin: 0 0;
+    color: black;
+}
